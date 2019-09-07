@@ -1,0 +1,15 @@
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.exe.config
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.exe
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.pdb
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csprojAssemblyReference.cache
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form1.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Properties.Resources.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.GenerateResource.cache
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.exe
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.pdb
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form2.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form3.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form4.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form5.resources
+C:\Users\tyln\source\repos\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form6.resources
